@@ -59,8 +59,8 @@ Tienda en línea en **Next.js + React + TypeScript + Tailwind** (código privado
   Herramientas de automatización **OPCheck** (TCL/Expect, diagnóstico óptico en OLT Huawei) y
   **VALIDATE-NODES** (Python, validación de nodos MikroTik). Entrega formal a la Dirección de
   Operaciones con acta de alcance y 9 runbooks.
-- **Independiente / PORIX** (2026–presente) — Desarrollo full-stack: proyectos propios (kafetu.sigc,
-  kafetu.store) y proyectos para clientes (girou, mimisionero, evecontrol).
+- **Independiente / PORIX** (2026–presente) — Desarrollo full-stack: proyectos clientes (kafetu.sigc,
+  kafetu.store,girou, mimisionero, evecontrol.
 - **SCM Ltda** (2014–2020) — Especialista en Operaciones de Red y NOC. Diseño e implementación del
   modelo operativo del NOC: monitoreo continuo, escalamiento y respuesta a incidentes. Arquitectura de
   red híbrida (FTTH y enlaces PtP/PtMP) y seguimiento de SLAs y KPIs. Coordinación y mentoría del
